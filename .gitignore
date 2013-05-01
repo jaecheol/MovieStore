@@ -27,3 +27,5 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+/MvcMovie/App_Data/Movies.mdf
+/MvcMovie/App_Data/Movies_log.ldf
